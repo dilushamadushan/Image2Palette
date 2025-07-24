@@ -14,7 +14,7 @@ This Python project allows you to **extract the dominant colors** from an image 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/dilushamadushan/ImageColorExtractor.git
+https://github.com/dilushamadushan/Image2Palette.git
 ```
 
 ### 2. Install dependencies
